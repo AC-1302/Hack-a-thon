@@ -1,2 +1,2 @@
 # Hack-a-thon
-Sudoku 
+Sodoku Solver 
